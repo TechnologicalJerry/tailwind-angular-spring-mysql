@@ -16,7 +16,7 @@ public class User {
     private String userAddress;
     private String userSkills;
 
-    public User(){
+    public User() {
 
     }
 
